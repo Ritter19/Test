@@ -1,0 +1,18 @@
+.text > span {
+  color: blue;
+  font-weight: 900;
+  background-color: red;
+  text-decoration: line-through;
+}
+
+p {
+  color: red;
+}
+
+article > p {
+  color: tomato;
+}
+
+.my-page .linked {
+  text-transform: uppercase;
+}
